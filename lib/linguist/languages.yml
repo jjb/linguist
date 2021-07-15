@@ -5104,6 +5104,7 @@ Ruby:
   - Brewfile
   - Buildfile
   - Capfile
+  - Clockfile
   - Dangerfile
   - Deliverfile
   - Fastfile
